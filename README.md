@@ -1,3 +1,3 @@
 # google_colab_ds
-python coded in google colab
-This course is introductory python course for data science. 
+
+This course is introductory python course for data science. I have used the google colab as an ide. You can directly click the link to google colab. 
